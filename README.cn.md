@@ -4,7 +4,7 @@
 
 Simple http server in Rust (Windows/Mac/Linux)
 
-![simple-http-server](https://repo.x-cmd.io/simple-http-server.svg)
+![simple-http-server](https://repo.x-cmd.io/simple-http-server.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install simple-http-server
 - **最新版本**: `v0.8.0` (2026-03-17)
 - **最近提交**: 2026-08-27
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-03-17T15:18:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aarch64-apple-darwin-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-apple-darwin-simple-http-server) | 2.6 MiB | `native/darwin/arm64` |
+| [aarch64-apple-darwin-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-apple-darwin-simple-http-server.sha256) | 64 B | `native/darwin/arm64` |
+| [aarch64-unknown-linux-musl-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-unknown-linux-musl-simple-http-server) | 3.1 MiB | `native/linux/arm64/musl` |
+| [aarch64-unknown-linux-musl-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-unknown-linux-musl-simple-http-server.sha256) | 64 B | `native/linux/arm64/musl` |
+| [armv7-unknown-linux-musleabihf-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/armv7-unknown-linux-musleabihf-simple-http-server) | 2.8 MiB | `native/linux/arm/musl` |
+| [armv7-unknown-linux-musleabihf-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/armv7-unknown-linux-musleabihf-simple-http-server.sha256) | 64 B | `native/linux/arm/musl` |
+| [x86_64-apple-darwin-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-apple-darwin-simple-http-server) | 2.6 MiB | `native/darwin/x64` |
+| [x86_64-apple-darwin-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-apple-darwin-simple-http-server.sha256) | 64 B | `native/darwin/x64` |
+| [x86_64-pc-windows-msvc-simple-http-server.exe](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-pc-windows-msvc-simple-http-server.exe) | 2.4 MiB | `native/win/x64` |
+| [x86_64-pc-windows-msvc-simple-http-server.exe.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-pc-windows-msvc-simple-http-server.exe.sha256) | 67 B | `native/win/x64` |
+| [x86_64-unknown-linux-musl-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-unknown-linux-musl-simple-http-server) | 3.1 MiB | `native/linux/x64/musl` |
+| [x86_64-unknown-linux-musl-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-unknown-linux-musl-simple-http-server.sha256) | 64 B | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -70,4 +86,4 @@ simple-http-server 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:58:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:58:53Z._

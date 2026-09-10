@@ -22,7 +22,23 @@ x install simple-http-server
 - **Latest**: `v0.8.0` (2026-03-17)
 - **Last commit**: 2026-08-27
 - **Assets in release**: 12
-- **Published**: 2026-03-17T15:18:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [aarch64-apple-darwin-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-apple-darwin-simple-http-server) | 2.6 MiB | `native/darwin/arm64` |
+| [aarch64-apple-darwin-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-apple-darwin-simple-http-server.sha256) | 64 B | `native/darwin/arm64` |
+| [aarch64-unknown-linux-musl-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-unknown-linux-musl-simple-http-server) | 3.1 MiB | `native/linux/arm64/musl` |
+| [aarch64-unknown-linux-musl-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-unknown-linux-musl-simple-http-server.sha256) | 64 B | `native/linux/arm64/musl` |
+| [armv7-unknown-linux-musleabihf-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/armv7-unknown-linux-musleabihf-simple-http-server) | 2.8 MiB | `native/linux/arm/musl` |
+| [armv7-unknown-linux-musleabihf-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/armv7-unknown-linux-musleabihf-simple-http-server.sha256) | 64 B | `native/linux/arm/musl` |
+| [x86_64-apple-darwin-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-apple-darwin-simple-http-server) | 2.6 MiB | `native/darwin/x64` |
+| [x86_64-apple-darwin-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-apple-darwin-simple-http-server.sha256) | 64 B | `native/darwin/x64` |
+| [x86_64-pc-windows-msvc-simple-http-server.exe](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-pc-windows-msvc-simple-http-server.exe) | 2.4 MiB | `native/win/x64` |
+| [x86_64-pc-windows-msvc-simple-http-server.exe.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-pc-windows-msvc-simple-http-server.exe.sha256) | 67 B | `native/win/x64` |
+| [x86_64-unknown-linux-musl-simple-http-server](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-unknown-linux-musl-simple-http-server) | 3.1 MiB | `native/linux/x64/musl` |
+| [x86_64-unknown-linux-musl-simple-http-server.sha256](https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-unknown-linux-musl-simple-http-server.sha256) | 64 B | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -66,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for simple-http-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `simple-http-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/simple-http-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/simple-http-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:58:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:58:52Z._
