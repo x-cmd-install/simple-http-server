@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2731552,
       "digest": "sha256:2bbeb14eebbee0243edca00a3e022b461d936b61613a3bc3268fb6ac5e2d189e",
-      "download_count": 196,
+      "download_count": 197,
       "created_at": "2026-03-17T15:21:21Z",
       "updated_at": "2026-03-17T15:21:21Z",
       "browser_download_url": "https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-apple-darwin-simple-http-server"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3222136,
       "digest": "sha256:88a523d339fa412575e497ee1741ffa4a7b6bdcfa23681a82eac7b8cd2bdf815",
-      "download_count": 4951,
+      "download_count": 4969,
       "created_at": "2026-03-17T15:20:35Z",
       "updated_at": "2026-03-17T15:20:36Z",
       "browser_download_url": "https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/aarch64-unknown-linux-musl-simple-http-server"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2536448,
       "digest": "sha256:6faac740df27e317125f562a4f5239fc2d95161aea995930929b1c895994aa9b",
-      "download_count": 2386,
+      "download_count": 2402,
       "created_at": "2026-03-17T15:22:40Z",
       "updated_at": "2026-03-17T15:22:41Z",
       "browser_download_url": "https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-pc-windows-msvc-simple-http-server.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:93b3e9520e61e68dfca6f0a4710685f2dc48ffe73a7c5b10caef89be04b2acd6",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-03-17T15:20:33Z",
       "updated_at": "2026-03-17T15:20:34Z",
       "browser_download_url": "https://github.com/TheWaWaR/simple-http-server/releases/download/v0.8.0/x86_64-unknown-linux-musl-simple-http-server.sha256"
