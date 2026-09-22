@@ -29,9 +29,9 @@ x install simple-http-server
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/29 approved changesets -- score normalized to 2
 - **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 6/29 approved changesets -- score normalized to 2
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install simple-http-server
 
 ## 流行度
 
-- **Star**: 3,456 · **Fork**: 219 · **开放 issue**: 97 · **贡献者**: 26
+- **Star**: 3,456 · **Fork**: 218 · **开放 issue**: 97 · **贡献者**: 26
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install simple-http-server
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-23 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last180d | 2026-03-25 | 0 | 0 | 1 | 0 | 1 | 2 |
-| 360d | 2025-09-26 | 2 | 0 | 1 | 2 | 1 | 8 |
-| last720d | 2024-10-01 | 5 | 4 | 3 | 8 | 6 | 24 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 2 |
+| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 1 | 2 |
+| 360d | 2025-09-27 | 2 | 0 | 1 | 2 | 1 | 8 |
+| last720d | 2024-10-02 | 5 | 4 | 3 | 8 | 6 | 24 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ simple-http-server 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:09:47Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:16:20Z._
