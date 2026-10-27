@@ -29,9 +29,9 @@ Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (2/10) — Found 6/29 approved changesets -- score normalized to 2
 - **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,460 · **Forks**: 218 · **Open issues**: 98 · **Contributors**: 26
+- **Stars**: 3,461 · **Forks**: 219 · **Open issues**: 98 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 34 · **Open PRs**: 6 · **Closed issues**: 59 · **Open issues**: 39 · **Commits**: 244
+- **Releases**: 15 · **Merged PRs**: 34 · **Open PRs**: 7 · **Closed issues**: 59 · **Open issues**: 39 · **Commits**: 244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 1 | 0 | 1 | 2 |
-| last180d | 2026-04-29 | 0 | 0 | 1 | 0 | 1 | 2 |
-| 360d | 2025-10-31 | 2 | 0 | 1 | 2 | 2 | 8 |
-| last720d | 2024-11-05 | 4 | 4 | 3 | 5 | 7 | 19 |
+| 30d | 2026-09-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 2 | 0 | 1 | 2 |
+| last180d | 2026-04-30 | 0 | 0 | 2 | 0 | 1 | 2 |
+| 360d | 2025-11-01 | 2 | 0 | 2 | 2 | 2 | 8 |
+| last720d | 2024-11-06 | 4 | 4 | 4 | 5 | 7 | 19 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for simple-http-server lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:51:29Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:21:26Z._
