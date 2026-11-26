@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,475 · **Forks**: 220 · **Open issues**: 98 · **Contributors**: 26
+- **Stars**: 3,474 · **Forks**: 219 · **Open issues**: 98 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 2 | 0 | 1 | 2 |
-| 360d | 2025-11-30 | 2 | 0 | 2 | 2 | 2 | 8 |
-| last720d | 2024-12-05 | 4 | 4 | 4 | 5 | 5 | 19 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 2 | 0 | 1 | 2 |
+| 360d | 2025-12-01 | 2 | 0 | 2 | 2 | 2 | 8 |
+| last720d | 2024-12-06 | 4 | 4 | 4 | 5 | 5 | 19 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for simple-http-server lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:47:37Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:37:47Z._
